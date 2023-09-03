@@ -1,6 +1,6 @@
 # HighScoolEnrollmentServer
 
-High School database system managing enrollments and using a TCP/IP Server provides information to the clients connected.
+High School database system managing enrollments. Using a TCP/IP Server provides information to the client connected.
 
 ### What the app does
 
