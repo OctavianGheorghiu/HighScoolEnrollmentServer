@@ -1,0 +1,27 @@
+[
+ {
+  "specializare": "Informatica Economica",
+  "numar_inscrieri": 4,
+  "medie": 8
+ },
+ {
+  "specializare": "Cibernetica",
+  "numar_inscrieri": 2,
+  "medie": 10
+ },
+ {
+  "specializare": "Statistica",
+  "numar_inscrieri": 1,
+  "medie": 9
+ },
+ {
+  "specializare": "Marketing",
+  "numar_inscrieri": 1,
+  "medie": 8
+ },
+ {
+  "specializare": "Contabilitate",
+  "numar_inscrieri": 2,
+  "medie": 8
+ }
+]
